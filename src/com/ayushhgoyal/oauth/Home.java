@@ -135,7 +135,7 @@ public class Home extends Activity implements OnClickListener {
 						accountManager.getAccountsByType("com.google")[0].name
 								.toString().trim(), // user
 						params[0], // oAuth token
-						"ayushhgoyal@gmail.com, ayushhgoyal@live.in") // recepients
+						"youremail@gmail.com, myemail@live.in") // recepients
 
 				;
 
